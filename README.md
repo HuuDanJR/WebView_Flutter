@@ -20,7 +20,7 @@ samples, guidance on mobile development, and a full API reference.
  <ul> flutter_inappwebview: ^3.2.0</ul>
  
  <p align="center">
-  
+    <br>
     <img src="https://user-images.githubusercontent.com/40542971/85989930-751dec00-ba1b-11ea-93e6-4b2d13e56ed1.jpg" width = "350"/>
   </p>
   <h3>webview in flutter</h3>
@@ -30,7 +30,7 @@ samples, guidance on mobile development, and a full API reference.
   </p>
   <h3>Loading bar and exit dialog</h3>
   <p align="center">
-  
+    <br>
     <img src="https://user-images.githubusercontent.com/40542971/85989925-73542880-ba1b-11ea-8fae-9eaaa73817e5.png" width = "350"/>
     <img src = "https://user-images.githubusercontent.com/40542971/85989927-73ecbf00-ba1b-11ea-9739-69c38d860146.png" width = "350"/>
     
